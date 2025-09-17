@@ -1,7 +1,7 @@
 
 ## Contribution Stats
 
-<a href="https://github.com/mkumatag/asselert/blob/master/README.md">
+<a href="https://github.com/asselert/asselert/blob/master/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=asselert&show_icons=true&count_private=true" /></a>
 
 <a href="https://github.com/asselert/asselert/blob/master/README.md">
