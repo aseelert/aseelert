@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**aseelert/aseelert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contribution Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/mkumatag/asselert/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asselert&show_icons=true&count_private=true" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/asselert/asselert/blob/master/README.md">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asselert&hide=html,python,robotframework,css,javascript&layout=compact" />
+</a>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aseelert&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=aseelert)
