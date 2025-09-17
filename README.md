@@ -1,10 +1,10 @@
 
 ## Contribution Stats
 
-<a href="https://github.com/asselert/asselert/blob/master/README.md">
+<a href="https://github.com/asselert/asselert/blob/main/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=asselert&show_icons=true&count_private=true" /></a>
 
-<a href="https://github.com/asselert/asselert/blob/master/README.md">
+<a href="https://github.com/asselert/asselert/blob/main/README.md">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asselert&hide=html,python,robotframework,css,javascript&layout=compact" />
 </a>
 
